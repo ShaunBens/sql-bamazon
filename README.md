@@ -6,7 +6,8 @@ Upon entering terminal and typing node "bamazonCustomer.js" You will be greeted 
 After entering the item ID, You will be asked to enter the amount of product you'd like to purchase. This number must be within the amount of stock available as shown in our SQL table.
 ![Start2](/images/start2.png?raw=true "start 2 image")
 
-After the user has entered their stock amount and it is available, The order is placed this printing to node our incvoice details.
+After the user has entered their stock amount and it is available, The order is placed thus printing to node our invoice details.
+
 ![Start3](/images/start3.png?raw=true "start 3 image")
 
 Inquirer will come up again asking the user to confirm their purchase. If the user selects no, then the application will cancel the order and take you back to the current inventory table. If the user selects yes, The order will be placed, a new inventory table will populate reflecting our new data changes. Our prompts will start over again.
