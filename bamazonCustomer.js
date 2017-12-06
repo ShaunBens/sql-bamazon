@@ -66,7 +66,7 @@ function startHere() {
 
             type: "input",
             name: "userItem",
-            message: "Please enter the ID number of the item you would like to purchase.",
+            message: "Welcome to Bamazon! \n Please enter the ID number of the item you would like to purchase.",
         },
         {
             type: "input",
