@@ -1,4 +1,6 @@
-# Customer View Walkthrough
+# Bamazon nodejs & MySQL
+
+## Customer View Walkthrough
 
 Upon entering terminal and typing node "bamazonCustomer.js" You will be greeted with a Welcome to our webstore and a prompt to enter the ID number of the item you'd like to purchase.
 ![Start1](/images/start1.png?raw=true "start image")
@@ -16,7 +18,7 @@ Inquirer will come up again asking the user to confirm their purchase. If the us
 
 - - -
 
-# Bamazon nodejs & MySQL
+
 
 ## Overview
 
